@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestResponse xmlns="http://www.intuit.com/sb/cdm/v2" xmlns:xdb="http://xmlns.oracle.com/xdb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.intuit.com/sb/cdm/v2 ../common/RestDataFilter.xsd">
+  <SyncActivityResponses>
+    <SyncActivityResponse>
+      <SyncType>Writeback</SyncType>
+      <StartSyncTMS>2011-06-02T15:39:20.0</StartSyncTMS>
+      <EndSyncTMS>2011-06-02T15:40:02.0</EndSyncTMS>
+      <EntityName>SalesOrder</EntityName>
+      <EntityRowCount>1</EntityRowCount>
+    </SyncActivityResponse>
+    <SyncActivityResponse>
+      <SyncType>Writeback</SyncType>
+      <StartSyncTMS>2011-06-02T12:59:14.0</StartSyncTMS>
+      <EndSyncTMS>2011-06-02T20:34:38.0</EndSyncTMS>
+      <EntityName>TimeActivity</EntityName>
+      <EntityRowCount>35</EntityRowCount>
+    </SyncActivityResponse>
+    <SyncActivityResponse>
+      <SyncType>Writeback</SyncType>
+      <StartSyncTMS>2011-06-02T15:45:29.0</StartSyncTMS>
+      <EndSyncTMS>2011-06-02T20:33:13.0</EndSyncTMS>
+      <EntityName>Invoice</EntityName>
+    </SyncActivityResponse>
+    <SyncActivityResponse>
+      <SyncType>Writeback</SyncType>
+      <StartSyncTMS>2011-06-02T15:30:49.0</StartSyncTMS>
+      <EndSyncTMS>2011-06-02T15:34:36.0</EndSyncTMS>
+      <EntityName>Estimate</EntityName>
+      <EntityRowCount>1</EntityRowCount>
+    </SyncActivityResponse>
+  </SyncActivityResponses>
+</RestResponse>
