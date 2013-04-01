@@ -1,4 +1,5 @@
 require 'quickeebooks/windows/model/sync_activity'
+require 'quickeebooks/windows/model/sync_activity_drill_down'
 require 'quickeebooks/windows/service/service_base'
 
 module Quickeebooks
